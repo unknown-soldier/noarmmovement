@@ -9,5 +9,5 @@ The 1.12.2 Version should work fine with Optifine.
 What does this Mod do?
 It removes the Code from the FirstPersonRenderer Class that makes the Arm Swing when you look around.
 
-Is it copatible with Optifine?
+Is it compatible with Optifine?
 See above
